@@ -13,23 +13,15 @@
 
 ## Como instalar
 
-### 1. Instale os pacotes
+### 1. Instale as dependências
 
-`npm install @steveeeie/react-page-transition`
-
-ou
-
-`yarn add @steveeeie/react-page-transition`
+`yarn`
 
 ---
 
-### 2. Instale as dependências
+### 2. Inicie o projeto
 
-`npm install react-router react-router-dom react-transition-group styled-components`
-
-ou
-
-`yarn add react-router react-router-dom react-transition-group styled-components`
+`yarn start`
 
 ---
 
