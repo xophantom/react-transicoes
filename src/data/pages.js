@@ -2,7 +2,7 @@ export const pages = [
   {
     path: "/page-1",
     title: "Página 1",
-    color: "black"
+    color: "#03a9f4"
   },
   {
     path: "/page-2",
